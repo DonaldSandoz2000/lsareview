@@ -226,15 +226,15 @@ This software package stores the code for generating benchmark datasets and the 
 24.	Pollet T, Berdjeb L, Garnier C et al. Prokaryotic community successions and interactions in marine biofilms: the key role of Flavobacteriia. FEMS Microbiol Ecol 2018;94.
 25.	Chow CE, Sachdeva R, Cram JA et al. Temporal variability and coherence of euphotic zone bacterial communities over a decade in the Southern California Bight. ISME J 2013;7:2259-73.
 26.	Ju F, Zhang T. Bacterial assembly and temporal dynamics in activated sludge of a full-scale municipal wastewater treatment plant. ISME J 2015;9:683-95.
-27. 	Kankan Z，郝丹 Y，冉 X 等。唯一不变的是变化：土壤微生物活动的内源昼夜节律。土壤生物化学。2022；173：108805。
-28. 	Lee YY，Seo Y，Ha M 等。高羊茅（Festuca arundinacea）种植的柴油污染土壤的根部修复和甲烷排放评估。环境研究 2021；194：110606。
-29. 	Thomas F, Cébron A. 根际对老化污染工业土壤中可用碳源、菲降解和活性微生物组的短期影响。微生物前沿 2016；7:92。
+27.	Kankan Z,Haodan Y,Ran X et al. The only constant is change: Endogenous circadian rhythms of soil microbial activities.Soil Biol Biochem. 2022;173:108805.
+28.	Lee YY, Seo Y, Ha M et al. Evaluation of rhizoremediation and methane emission in diesel-contaminated soil cultivated with tall fescue (Festuca arundinacea). Environmental Research 2021;194:110606.
+29.	Thomas F, Cébron A. Short-Term Rhizosphere Effect on Available Carbon Sources, Phenanthrene Degradation, and Active Microbiome in an Aged-Contaminated Industrial Soil. Front Microbiol 2016;7:92.
 30.	Lee YY, Lee SY, Cho KS. Phytoremediation and bacterial community dynamics of diesel-and heavy metal-contaminated soil: Long-term monitoring on a pilot scale. International Biodeterioration & Biodegradation 2023;183:105642.
 31.	Lee YY, Choi H, Cho KS. Effects of carbon source, C/N ratio, nitrate, temperature, and pH on N2O emission and functional denitrifying genes during heterotrophic denitrification. J Environ Sci Health A Tox Hazard Subst Environ Eng 2019;54:16-29.
 32.	Fletcher-Hoppe C, Yeh YC, Raut, Y et al. Symbiotic UCYN-A strains co-occurred with El Niño, relaxed upwelling, and varied eukaryotes over 10 years off Southern California. ISME COMMUN 2023;3:63.
-33. 	Kwon JH、Park HJ、Lee YY 等。间歇曝气下序批式反应器的反硝化性能和细菌群落评价 J Environ Sci Health A Tox Hazard Subst Environ Eng 2020；55：179-192。
-34.Carini 	P、Delgado-Baquerizo M、Hinckley ES 等人。空间变异和遗迹 DNA 去除对土壤微生物群落时间动态检测的影响。mBio 2020；11：e02776-19。
-35. 	Kim TG，Yun J，Cho KS。乳球菌和甲烷菌之间的密切关系是 UASB 反应器中糖蜜废水稳定生产甲烷的关键。应用微生物生物技术 2015；99：8271-83。
+33.	Kwon JH, Park HJ, Lee YY et al. Evaluation of denitrification performance and bacterial community of a sequencing batch reactor under intermittent aeration. J Environ Sci Health A Tox Hazard Subst Environ Eng 2020;55:179-192.
+34.	Carini P, Delgado-Baquerizo M, Hinckley ES et al. Effects of Spatial Variability and Relic DNA Removal on the Detection of Temporal Dynamics in Soil Microbial Communities. mBio 2020;11:e02776-19.
+35.	Kim TG, Yun J, Cho KS. The close relation between Lactococcus and Methanosaeta is a keystone for stable methane production from molasses wastewater in a UASB reactor. Appl Microbiol Biotechnol 2015;99:8271-83.
 36.	Lee YY, Kim TG, Cho KS. Effects of proton exchange membrane on the performance and microbial community composition of air-cathode microbial fuel cells. J Biotechnol 2015;211:130-7.
 37.	Steffen K, Indraningra, AAG, Erngren I et al. Oceanographic setting influences the prokaryotic community and metabolome in deep-sea sponges. Sci Rep 2022;12:3356.
 38.	Jang J, Park J, Hwang CY et al. Abundance and diversity of antibiotic resistance genes and bacterial communities in the western Pacific and Southern Oceans. Sci Total Environ 2022;822:153360.
