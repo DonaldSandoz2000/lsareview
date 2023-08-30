@@ -6,23 +6,6 @@ Algorithms for identifying local associations in biological time series
 We conducted a basic comparison among five available open-source LSA software tools (including eLSA, fastLSA, LocSim, MBBLSA, and DDLSA, which implemented permutation or theoretical methods to estimate the statistical significance of LS scores) and LTA software tools, as presented in **Table 1**. For eLSA, in addition to local similarity analysis, it also includes other functions such as trend series analysis and bootstrap confidence intervals.In addition, **Table 2** presented a summary of the real applications of these LSA and LTA software tools in various data domains and specialties, aiming to provide practitioners with a convenient overview of the wide adoption of these tools. Additionally, for the selection of appropriate software tools tailored to distinct tasks or datasets, please refer to **Figure 1**.
 
 **Table 1.** Feature comparison of LSA analysis software tools.
-<style>
-  .custom-table {
-    width: 80%; /* 表格宽度 */
-    border-collapse: collapse;
-  }
-  .custom-table th, .custom-table td {
-    padding: 10px;
-    border: 1px solid black;
-    text-align: center; /* 文字居中对齐 */
-  }
-  .col-width-12 {
-    width: 12.5%; /* 自定义列宽度 */
-  }
-  .table-caption {
-    text-align: left; /* 将表格标题左对齐 */
-  }
-</style>
 
 <table class="custom-table">
   <tr style="line-height: 0.99;">
@@ -102,23 +85,6 @@ note：The software tools fastLSA and TC_linkage_infer have been discontinued.
 
 **Table 2.** Example real applications of LSA and LTA methods and software tools.
 
-<style>
-  .custom-table {
-    width: 100%; /* 表格宽度 */
-    border-collapse: collapse;
-  }
-  .custom-table th, .custom-table td {
-    padding: 10px;
-    border: 1px solid black;
-    text-align: center; /* 文字居中对齐 */
-  }
-  .col-width-12 {
-    width: 12.5%; /* 自定义列宽度 */
-  }
-  .table-caption {
-    text-align: left; /* 将表格标题左对齐 */
-  }
-</style>
 
 <table class="custom-table">
   <tr>
