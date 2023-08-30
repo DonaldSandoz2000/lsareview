@@ -8,7 +8,7 @@ We conducted a basic comparison among five available open-source LSA software to
 **Table 1.** Feature comparison of LSA analysis software tools.
 
 <table class="custom-table">
-  <tr style="line-height: 0.99;">
+  <tr>
     <th class="col-width-12">Method<br>(Software)</th>
     <th class="col-width-12">LSA<br>(LocSim)</th>
     <th class="col-width-12">LSA<br>(eLSA)</th>
@@ -18,7 +18,7 @@ We conducted a basic comparison among five available open-source LSA software to
     <th class="col-width-12">LTA<br>(eLSA)</th>
     <th class="col-width-12">LTA<br>(TC_linkage_infer)</th>
   </tr>
-  <tr style="line-height: 0.99;">
+  <tr>
     <td>Reference</td>
     <td>Ruan et al.<br>2006<br>[1]</td>
     <td>Xia et al.<br>2011, 2013<br>[2, 3]</td>
@@ -28,7 +28,7 @@ We conducted a basic comparison among five available open-source LSA software to
     <td>Xia et al.<br>2011, 2013<br>[2, 3]</td>
     <td>He et al.<br>2006<br>[7]</td>
   </tr>
-  <tr style="line-height: 0.99;">
+  <tr>
     <td>Homepage</td>
     <td><a href="https://www-rcf.usc.edu/~fsun/Programs/local_similarity/lsaMain.html">Link</a></td>
     <td><a href="https://github.com/labxscut/elsa">Link</a></td>
@@ -38,7 +38,7 @@ We conducted a basic comparison among five available open-source LSA software to
     <td><a href="https://github.com/labxscut/elsa">Link</a></td>
     <td><a href="http://www.gbf.de/SystemsBiology">Link</a></td>
   </tr>
-  <tr style="line-height: 0.99;">
+  <tr>
     <td>Language</td>
     <td>R</td>
     <td>Python and C++</td>
@@ -48,7 +48,7 @@ We conducted a basic comparison among five available open-source LSA software to
     <td>Python and C++</td>
     <td>-</td>
   </tr>
-  <tr style="line-height: 0.99;">
+  <tr>
     <td>Replicated Data</td>
     <td>No</td>
     <td>Yes</td>
@@ -58,7 +58,7 @@ We conducted a basic comparison among five available open-source LSA software to
     <td>Yes</td>
     <td>Yes</td>
   </tr>
-  <tr style="line-height: 0.99;">
+  <tr>
     <td>Confidence Interval</td>
     <td>No</td>
     <td>Yes</td>
@@ -68,7 +68,7 @@ We conducted a basic comparison among five available open-source LSA software to
     <td>Yes</td>
     <td>No</td>
   </tr>
-  <tr style="line-height: 0.99;">
+  <tr>
     <td>p-value</td>
     <td>Permutation</td>
     <td>Theory and Permutation</td>
