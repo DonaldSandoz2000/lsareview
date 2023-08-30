@@ -22,7 +22,7 @@ We conducted a basic comparison among five available open-source LSA software to
     <td>Reference</td>
     <td>Ruan et al.<br>2006<br>[1]</td>
     <td>Xia et al.<br>2011, 2013<br>[2, 3]</td>
-    <td>Durno et al.<br>2013<br>[4]</td>
+    <td>Durno et al.<nobr><br>2013<br>[4]</td>
     <td>Zhang et al.<br>2018<br>[5]</td>
     <td>Zhang et al.<br>2019<br>[6]</td>
     <td>Xia et al.<br>2011, 2013<br>[2, 3]</td>
